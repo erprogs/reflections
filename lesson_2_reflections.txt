@@ -1,3 +1,5 @@
-"How is the staging area different from the working directory and the repository? What value do you think it offers? its temporary area btn directory and repository. its a clipboard of git filesytem, mediator?, i guess"
+How is the staging area different from the working directory and the repository? 
+** What value do you think it offers? its temporary area btn directory and repository. its a clipboard of git filesytem, mediator?, i guess
 
-"What are some situations when branches would be helpful in keeping your history organized? How would branches help? * when we want to add some new features to our system/file but we dont need to test it on the original one. ** when we need different versions/levels(the easy-mode in our lesson game) of a file. *** when there are multiple peoples working on the same system/file its better to branch it first to avoid collusions"
+What are some situations when branches would be helpful in keeping your history organized? How would branches help? 
+** when we want to add some new features to our system/file but we dont need to test it on the original one. ** when we need different versions/levels(the easy-mode in our lesson game) of a file. *** when there are multiple peoples working on the same system/file its better to branch it first to avoid collusions.
