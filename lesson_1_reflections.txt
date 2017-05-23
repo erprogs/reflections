@@ -1,8 +1,10 @@
 How did viewing a diff between two versions of a file help you see the bug that was introduced? 
-**git diff shows as the lines that were added and removed within two commits. By doing this it enables us to pinpoint the lines that might have created the bugs easly. 
+**git diff shows as the lines that were added and removed within two commits. By doing this it enables us to pinpoint 
+the lines that might have created the bugs easly. 
 
 What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does? 
-** Google Docs is not specifically designed for version controlling, so its not a wise desicion to use it for version control. On top of that Google Docs lacks to make commits that are logically interdependent. Git gives us the ability to decide when to make logical commits.
+** Google Docs is not specifically designed for version controlling, so its not a wise desicion to use it for version control.
+On top of that Google Docs lacks to make commits that are logically interdependent. Git gives us the ability to decide when to make logical commits.
 
 Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately? 
 ** becuase git takes into consideration the logical interdepence of different files and sees them as one.
@@ -11,4 +13,5 @@ How can you use the commands git log and git diff to view the history of files?
 ** I will use git log to see all the commit I've made and git diff to see the difference between two commits
 
 How might using version control make you more confident to make changes that could break something?
-** It gives me the confidence to test some new features because if something went wrong I could easly go back to the commits that were working
+** It gives me the confidence to test some new features because if something went wrong I could easly go back to 
+the commits that were working
